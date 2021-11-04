@@ -1,8 +1,11 @@
-package de.claudioaltamura.java.functional;
+package de.claudioaltamura.java.functional.principlesprinciples;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import de.claudioaltamura.java.functional.principles.Factory;
+import de.claudioaltamura.java.functional.principles.HigherOrderFunction;
 
 class HigherOrderFunctionTest {
 

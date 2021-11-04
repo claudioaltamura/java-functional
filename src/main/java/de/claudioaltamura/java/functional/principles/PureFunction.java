@@ -1,4 +1,4 @@
-package de.claudioaltamura.java.functional;
+package de.claudioaltamura.java.functional.principles;
 
 public class PureFunction {
 
