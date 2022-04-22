@@ -4,3 +4,5 @@
 
 # java-functional
 Functional Programming in Java
+
+* addition example
